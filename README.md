@@ -5,4 +5,7 @@
 - [√]实时渲染
 - [√]调节大小
 
-  ref: 
+ref: [[<span style="color: blue;">ManualKDE: 交互式选点 x 核密度估计 x 热力图可视化 x 参数可调</span>]](https://blog.csdn.net/weixin_45827311/article/details/135344863?spm=1001.2014.3001.5502)
+
+说明：
+修改了原有代码，实时根据标点情况显示热力图。避免了点完-->保存-->查看过程中出现的热力图不满意，可视化不足的情况。
